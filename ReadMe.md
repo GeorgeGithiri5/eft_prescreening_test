@@ -2,7 +2,7 @@
 
 ### 1. Clone the repository
 ```bash
-git https://github.com/GeorgeGithiri5/eft_prescreening_test
+git clone https://github.com/GeorgeGithiri5/eft_prescreening_test.git
 cd eft_prescreening_test/airflow
 ```
 
